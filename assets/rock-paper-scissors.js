@@ -157,8 +157,8 @@ function playGame(playerMove) {
 
   document.querySelector('.js-picks')
     .innerHTML = `you
-<img src="../images/${playerMove}-emoji.png" class="move-icon">
-<img src="../images/${computerMove}-emoji.png" class="move-icon">
+<img src="assets/${playerMove}-emoji.png" class="move-icon">
+<img src="assets/${computerMove}-emoji.png" class="move-icon">
 computer`;
 
   document.querySelector('.js-result')
