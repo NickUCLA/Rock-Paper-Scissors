@@ -22,10 +22,6 @@ This is a simple Rock Paper Scissors game implemented in JavaScript. It allows y
 
 ![Rock Paper Scissors Preview](assets/screenshot.png)
 
-## Dependencies
-
-No external dependencies are required to run this app.
-
 ## Compatibility
 
 This app is compatible with modern web browsers.
